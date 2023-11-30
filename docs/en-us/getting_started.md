@@ -1,4 +1,4 @@
-# Welcome to AsonetCMS
+<h1 style="text-align: center;">Welcome to AsonetCMS</h1>
 ***
 What is AsonetCMS?
 
