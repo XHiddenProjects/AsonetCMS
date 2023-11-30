@@ -4,7 +4,7 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 
 ### Valid Webhooks
 
-| name | description | usage |
+| Name | Description | Usage |
 | ---- | ----------- | ----- |
 | meta | Load part of the meta tag | *_meta() |
 | css  | Executes code as a CSS code at the head tag | *_css() |
