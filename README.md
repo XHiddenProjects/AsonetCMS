@@ -12,3 +12,5 @@ Experience the freedom of expression with our groupware or community like Asonet
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+[![All Contributors](https://img.shields.io/github/all-contributors/XHiddenProjects/AsonetCMS?color=ee8449&style=flat-square)](#contributors)
