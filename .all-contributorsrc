@@ -1,4 +1,9 @@
 {
   "projectName": "AsonetCMS",
-  "projectOwner": "XHiddenProjects"
+  "projectOwner": "XHiddenProjects",
+  "files": ["README.md"],
+  "imageSize": 50,
+  "commit": true,
+  "contributorsSortAlphabetically": true,
+  "contributors": ["@XHiddenProjects"]
 }
