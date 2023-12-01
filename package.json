@@ -1,0 +1,19 @@
+{
+  "name": "AsonetCMS",
+  "description": "Experience the freedom of expression with our groupware or community like AsonetCMS and elevate your website to new heights- the licensed CMS that provides users with unparalleled control over their website`s content, design, and top-tier security.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XHiddenProjects/AsonetCMS.git"
+  },
+  "keywords": ["AsonetCMS", "cms"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XHiddenProjects/AsonetCMS/issues"
+  },
+  "homepage": "https://github.com/XHiddenProjects/AsonetCMS"
+}
