@@ -1,4 +1,4 @@
 .all-contributorsrc
 .gitignore
 docs/*
-README.md
+*.md
