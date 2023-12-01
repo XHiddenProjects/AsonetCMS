@@ -6,7 +6,7 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 
 | Name | Description | Usage |
 | ---- | ----------- | ----- |
-| meta | Load part of the meta tag | *_meta() |
+| meta | Loads meta tags in the header | *_meta() |
 | css  | Executes code as a CSS code at the head tag | *_css() |
 | js   | Executes script after page load | *_js() |
 | beforePage | Loads code before the page loads up | *_beforePage() |
