@@ -13,4 +13,4 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 | afterPage | Loads code after the page us loaded up | *_afterPage() |
 | dbnav | Loads up code at the dashboard navagation bar | *_dbnav() |
 | profileSettings | Loads code at the profile settings | *_profileSettings() |
-| profile | Loads code on the profile page | *_profile() |
+| profile | Loads code on the profile page | *_profile(string $username) |
