@@ -3,9 +3,9 @@
 ***
 
 Developer/Security operator
-1. [Gavin Zeager](https://github.com/xhiddenprojects)
+1. [Gavin Zeager(XHiddenProjects)](https://github.com/xhiddenprojects)
 
 Contributers
 
-1. [Gavin Zeager](https://github.com/xhiddenprojects)
-2. [Andreas Holzer](https://github.com/WebCrew)
+1. [Gavin Zeager(XHiddenProjects)](https://github.com/xhiddenprojects)
+2. [Andreas Holzer(WebCrew)](https://github.com/WebCrew)
