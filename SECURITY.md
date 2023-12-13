@@ -15,7 +15,7 @@ Any actions you do on your account will be tracked based on actions you do, keep
 
 # InnerVPN
 
-Hide your Information with out _InnerVPN_ runs up to **504 hours** and refills every month _(just to prevent server overload)_.
+Hide your Information with our _InnerVPN_ runs up to **504 hours** and refills every month _(just to prevent server overload)_.
 
 ## Reporting a Vulnerability
 
