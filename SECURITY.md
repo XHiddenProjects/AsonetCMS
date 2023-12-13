@@ -11,7 +11,7 @@ currently being supported with security updates.
 
 # History alerts
 
-Any actions you do on your account will be tracked based on actions you do, keeping you secured any outside threats acting upon accessing account and take action with simple choice selectors.
+Any actions you do on your account will be tracked based on actions you do, keeping you secured from any outside threats acting upon accessing account and take action with simple choice selectors.
 
 # InnerVPN
 
