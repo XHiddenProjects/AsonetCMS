@@ -9,11 +9,11 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
 
-# History alerts
+## History alerts
 
 Any actions you do on your account will be tracked based on actions you do, keeping you secured from any outside threats acting upon accessing account and take action with simple choice selectors.
 
-# InnerVPN
+## InnerVPN
 
 Hide your Information with our _InnerVPN_ runs up to **504 hours** and refills every month _(just to prevent server overload)_.
 
