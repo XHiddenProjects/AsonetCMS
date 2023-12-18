@@ -46,7 +46,7 @@ CMS can be configured by editing the settings in the administration panel.
 ### Administration panel
 To change the basic configuration in the admin panel, select the `Settings` tab. From here You can enter and save all needed settings.
 
-If you want to change templates, which should only be done my experienced admins, you can use the integrated filemanager/editor.
+If you want to change templates, which should only be done by experienced admins, you can use the integrated filemanager/editor.
 
 
 Update
