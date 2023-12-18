@@ -11,3 +11,7 @@ Experience the freedom of expression with our groupware or community like Asonet
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
