@@ -55,6 +55,10 @@ Depending on how large the project is, you may want to outsource the questioning
 > ### Legal Notice <!-- omit in toc -->
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
+Furthermore, your submitted plugins or themes should meet our standards and security should always be a top priority. Plugin and theme developers should use Bootstrap 5 and the code should be clear and well commented. If necessary, a documentation in English should also be available. You agree to provide support for your submitted projects, especially if they involve premium plugins or themes.
+
+Basically, it should be said that we support two types of contributions - voluntary free plugins/themes and premium versions. Free plugins and themes will find a place in our GitHub repository and are freely accessible at any time. We will create a marketplace for premium submissions and all premium submissions will be checked by us for quality and will only be approved if they meet our minimum standards and requirements. We will provide more detailed information about Premium Contributions in our documentation.
+
 ### Reporting Bugs
 
 <!-- omit in toc -->
