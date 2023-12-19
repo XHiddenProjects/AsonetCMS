@@ -7,7 +7,7 @@ Experience the freedom of expression with our groupware or community like Asonet
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table class="contributeTable">
+<table id="contributeTable">
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://webcrew.github.io"><img src="https://avatars.githubusercontent.com/u/12986067?v=4?s=50" width="50px;" alt="WebCrew"/><br /><sub><b>WebCrew</b></sub></a><br /><a href="#doc-WebCrew" title="Documentation">📖</a></td>
