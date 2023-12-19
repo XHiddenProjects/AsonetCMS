@@ -1,9 +1,24 @@
 {
   "projectName": "AsonetCMS",
   "projectOwner": "XHiddenProjects",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 50,
   "commit": true,
   "contributorsSortAlphabetically": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "WebCrew",
+      "name": "WebCrew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12986067?v=4",
+      "profile": "https://webcrew.github.io",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
 }
