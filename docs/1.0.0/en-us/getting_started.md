@@ -48,7 +48,7 @@ If you want to change templates, which should only be done by experienced admins
 Update
 ------
 
-If you want to keep up to date with all the latest news, bug fixes and security issues, you should regularly check ASONET-CMS homepage. System updates can be done automatically via the admin backend. Your hosting should support Git because our updates come from our GitHub repository.
+If you want to keep up to date with all the latest news, bug fixes and security issues, you should regularly check AsonetCMS homepage. System updates can be done automatically via the admin backend. Your hosting should support Git because our updates come from our GitHub repository.
 
 In case of complications you can always ask us about it at our support forums or via our ticket system.
 
