@@ -1,7 +1,7 @@
 {
   "projectName": "AsonetCMS",
   "projectOwner": "XHiddenProjects",
-  "files": ["README.md", "CONTRIBUTE.md"],
+  "files": ["README.md", "CONTRIBUTORS.md"],
   "imageSize": 50,
   "commit": true,
   "contributorsSortAlphabetically": true,
