@@ -1,22 +1,19 @@
 Requirements
 ------------
 
-System requirements for ASONET-CMS are modest, so every modern server should suffice.
+System requirements for AsonetCMS are modest, so every modern server should suffice.
 
 + Apache 2.2+ with `mod_rewrite`
 + PHP version 7.4+
-+ Access to a MySQL Database Version 5.6+
++ MySQL 5.6+
 
 PHP configuration must have the following extensions:
 
-+ dom
 + git
 + gd
 + mbstring
-+ pdo
 + zip
 + cURL
-+ intl
 + simplexml
 + json
 
@@ -32,21 +29,20 @@ Some servers may require additional permissions `chmod 777` for the following di
 
 + uploads/
 
-
-Open your browser and navigate to the address where the ASONET-CMS files are located. You should see a default template.
-
-To go to the administration panel, add `/admin/` at the end of the URL. **The initial login and password are *"admin"*.*password* It should be changed right after login for security reasons.
-
+Go to _(Your domain)/install_
+1. Fill out the database credentals.
+2. Fill out authorization credentals.
+3. After that you maybe **required** to login after installation.
 
 Configuration
 -------------
 
-CMS can be configured by editing the settings in the administration panel.
+CMS can be configured by editing the settings in the dashboard panel.
 
 ### Administration panel
-To change the basic configuration in the admin panel, select the `Settings` tab. From here You can enter and save all needed settings.
+To change the basic configuration in the admin panel, select the `Admin > Config` tab. From here You can enter and save all needed settings.
 
-If you want to change templates, which should only be done by experienced admins, you can use the integrated filemanager/editor.
+If you want to change templates, which should only be done by experienced admins, you can use the integrated _File Manager_.
 
 
 Update
