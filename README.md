@@ -4,10 +4,10 @@ Experience the freedom of expression with our groupware or community like Asonet
 
 ## ASONET-CMS Team
 
-Main developer: [Gavin / XHiddenProjects](https://github.com/XHiddenProjects)
+Main developer: [Gavin/XHiddenProjects](https://github.com/XHiddenProjects)
 
 
-Partner: [Andreas / WebCrew](https://github.com/WebCrew)
+Partner: [Andreas/WebCrew](https://github.com/WebCrew)
 
 
 ## Other Contributors
