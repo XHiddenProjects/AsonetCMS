@@ -25,7 +25,7 @@ Extract all files from the compressed package and then transfer them to the loca
 
 **Warning!** Make sure the `.htaccess` file is also on the server. Without it the CMS will not work.
 
-Some servers may require additional permissions `chmod 777` for the following directories and files:
+Some servers may require additional permissions `chmod 0777` for the following directories and files:
 
 + uploads/
 
