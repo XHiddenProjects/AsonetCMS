@@ -14,3 +14,4 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 | dbnav | Loads up code at the dashboard navagation bar | `*_dbnav()` |
 | profileSettings | Loads code at the profile settings | `*_profileSettings()` |
 | profile | Loads code on the profile page | `*_profile(string $username)` |
+| editor | Loads up elements in the message editor | `*_editor()` | 
