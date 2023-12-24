@@ -15,4 +15,4 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 | profileSettings | Loads code at the profile settings | `*_profileSettings()` |
 | profile | Loads code on the profile page | `*_profile(string $username)` |
 | editor | Loads up elements in the message editor | `*_editor(string $codeLang)` | 
-| topicHead(**Body/Foot**) | Loads code on the top of the topic card | `*_topics(string $topicid, string $title, string $author)` |
+| topicHead(**Body/Foot**) | Loads code on the top of the topic card | `*_topicHead(**Body/Foot**)(string $topicid, string $title, string $author)` |
