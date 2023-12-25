@@ -16,3 +16,5 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 | profile | Loads code on the profile page | `*_profile(string $username)` |
 | editor | Loads up elements in the message editor | `*_editor(string $codeLang)` | 
 | topicHead(**Body/Foot**) | Loads the elements in the topic | `*_topicHead[Body/Foot](string $topicid, string $title, string $author)` |
+| install | Executes code when plugin is installed | `*_install()` |
+| config | Loads configuration for plugins | `*_config()` |
