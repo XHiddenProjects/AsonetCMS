@@ -18,7 +18,7 @@ _**ALL NAMES ARE CASE-SENSIATIVE!**_
         # content
      }
      ```
-    3. Inside the class you would want to return the plugin name type this
+    3. Inside the class you would want to return the plugin name; type this
        ```php
         
         public function __construct()
