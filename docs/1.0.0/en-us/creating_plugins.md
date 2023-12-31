@@ -39,7 +39,7 @@ _**ALL NAMES ARE CASE-SENSIATIVE!**_
      ```php
       public static function {webhooks}(param){
         if(self::isActive(self::$baseName)){
-            # execute if plugin is active.
+            # execute if plugin is on.
         }else{
             # execute if plugin is off.
         }
