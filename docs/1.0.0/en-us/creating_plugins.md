@@ -38,6 +38,10 @@ _**ALL NAMES ARE CASE-SENSIATIVE!**_
     5. If you want to add more and do more stuff, here is the format to allow that access
      ```php
       public static function {webhooks}(param){
-        # Enter code
+        if(self::isActive(self::$baseName)){
+            # execute if plugin is active.
+        }else{
+            # execute if plugin is off.
+        }
      }
      ```
