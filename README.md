@@ -37,6 +37,8 @@ What do we include:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+***
+
 ## Extra info
 <table>
   <thead>
