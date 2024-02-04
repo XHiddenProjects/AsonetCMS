@@ -50,7 +50,7 @@ What do we include:
   <tbody>
     <tr style="background-color:#fff;">
       <td><img src="https://cdn-icons-png.flaticon.com/512/4692/4692307.png" title="Made in the U.S.A"/></td>
-      <td><img src="https://cdn-icons-png.flaticon.com/512/8617/8617292.png" title="Hosted in Germany"/></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/3526/3526204.png" title="Hosted in Germany"/></td>
     </tr>
   </tbody>
 </table>
