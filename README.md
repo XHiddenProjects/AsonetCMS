@@ -40,7 +40,7 @@ What do we include:
 ***
 
 ## Extra info
-<table>
+<table class="table">
   <thead>
     <tr>
       <th>Build in</th>
