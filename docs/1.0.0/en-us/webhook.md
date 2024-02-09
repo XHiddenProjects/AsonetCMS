@@ -17,5 +17,6 @@ Webhooks are easy use for creating plugins, this only requires function labels a
 | editor | Loads up elements in the message editor | `*\editor(string $codeLang)` | 
 | topicHead(**Body/Foot**) | Loads the elements in the topic | `*\topicHead[Body/Foot](string $topicid, string $title, string $author)` |
 | install | Executes code when plugin is installed | `*\install()` |
+| loaded | Executes code when plugin is loaded [enabled\disabled] | `*\loaded()` |
 | config | Loads configuration for plugins | `*\config()` |
 | view | Displays program at the _/viewer.php/{plugin}_ | `*\view()` |
