@@ -2,7 +2,7 @@
 
 This is a whole page for starting up creating your own addon to the software and will require you need to know the [Webhooks](#webhooks). This will go at a step-by-step process with some example to the code.
 ***
-_**ALL NAMES ARE CASE-SENSIATIVE!**_
+_**ALL NAMES ARE CASE-SENSITIVE!**_
 
 1. Startup
     1. Locate the _/plugins_ folder 
