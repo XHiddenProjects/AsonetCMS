@@ -10,7 +10,7 @@ _**ALL NAMES ARE CASE-SENSITIVE!**_
     3. Create a file inside that folder name `{plugin_name}.plg.php`
     4. Open it up to continue
 2. Writting the code
-    1. For the first step, you must include the **ASONET PLUGIN NAMESPACE** which can be defined as this `namespace asonet\Plugins;` and which it extends onto the functions to the plugin complier.
+    1. For the first step, you must include the **ASONET PLUGIN NAMESPACE** which can be defined as this `namespace asonet\Plugins;` and which it extends onto the functions to the plugin compiler.
     2. Next, set your plugins class by typing this
      ```php
      namespace asonet\Plugins;
