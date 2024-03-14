@@ -1,6 +1,8 @@
 # AsonetCMS
 Experience the freedom of expression with our groupware or community like Asonet-CMS and elevate your website to new heights- the licensed CMS that provides users with unparalleled control over their website`s content, design, and top-tier security. ASONET-CMS is the abbreviation for: A Social Network CMS
 
+**Website is under construction**
+
 ***
 
 What is AsonetCMS?
