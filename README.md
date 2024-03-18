@@ -45,7 +45,7 @@ What do we include:
 <table class="table table-light table-striped table-hover table-bordered">
   <thead>
     <tr>
-      <th>Build in</th>
+      <th>Built in</th>
       <th>Hosted in</th>
     </tr>
   </thead>
